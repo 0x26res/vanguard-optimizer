@@ -31,6 +31,17 @@ To limit the number of queries to yahoo finance, we cache all http request. The 
 ```shell
 rm cache.sqlite
 ```
+
+# Notebooks
+
+## [optimizer-vanguard](./optimizer-vanguard.ipynb)
+
+Simple version of the optimizer using only vanguard data.
+
+## [optimizer-yahoo](./optimizer-yahoo.ipynb)
+
+Version of the optimizer using yahoo for historical prices (deprecated).
+
 # Resources
 
 ## Links
