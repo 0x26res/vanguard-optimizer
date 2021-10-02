@@ -29,7 +29,7 @@ jupyter notebook
 
 To limit the number of queries to yahoo finance, we cache all http request. The cache can be deleted:
 ```shell
-rm yahoo_cache.sqlite
+rm cache.sqlite
 ```
 
 
