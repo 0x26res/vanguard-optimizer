@@ -2,7 +2,7 @@
 
 *This is not investment advice*
 
-Notebook to play around with a portfolio of Vanguard products using data scrapped form the internet. 
+[Notebook](vanguard-optimizer.html) to play around with a portfolio of Vanguard products using data scrapped form the internet. 
 
 # Set up
 
@@ -26,6 +26,12 @@ jupyter notebook
 To limit the number of data queries and speed up notebook re-run, http requests are cached. To reset the cache:
 ```shell
 rm requests_cache.sqlite
+```
+
+## Regenerate HTML
+
+```shell
+jupyter nbconvert  --execute vanguard-optimizer.ipynb --to=html
 ```
 
 # Resources
