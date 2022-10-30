@@ -2,7 +2,7 @@
 
 *This is not investment advice*
 
-[Notebook](vanguard-optimizer.html) to play around with a portfolio of Vanguard products using data scrapped form the internet. 
+[Notebook](vanguard-optimizer.ipynb) to play around with a portfolio of Vanguard products using data scrapped form the internet. 
 
 # Set up
 
