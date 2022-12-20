@@ -11,4 +11,5 @@ nbconvert
 tabulate
 seaborn
 statsmodels
-sklearn
+scikit-learn
+pre-commit
