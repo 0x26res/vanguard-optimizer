@@ -2,6 +2,7 @@ black
 cvxopt
 cvxpy
 jupyter
+kaleido
 matplotlib
 nbconvert
 pandas
